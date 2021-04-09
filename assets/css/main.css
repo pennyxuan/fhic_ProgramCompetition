@@ -1922,9 +1922,9 @@
 			input[type="reset"],
 			input[type="button"],
 			button,
-			.button {
+			/*.button {
 				padding: 0;
-			}
+			}*/
 
 		}
 
@@ -2490,7 +2490,7 @@
 						}
 
 						ul.actions li > * {
-							width: 100%;
+							width: 90%;
 							margin: 0 !important;
 						}
 
@@ -3950,7 +3950,7 @@
 				}
 
 				#banner .button {
-					width: 100%;
+					width: 90%;
 				}
 
 		}
